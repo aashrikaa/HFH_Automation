@@ -1,0 +1,11 @@
+node_modules/
+.vscode
+cypress.env.json
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+.env
+*.env
+cypress/downloads/
+cypress/cache/
+*.log
