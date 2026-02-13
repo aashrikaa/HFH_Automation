@@ -6,6 +6,7 @@ cypress/videos/
 cypress/reports/
 .env
 *.env
+cypress.env.json
 cypress/downloads/
 cypress/cache/
 *.log
